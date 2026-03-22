@@ -7,13 +7,13 @@ Key Features
 -  Add to cart / remove from cart
 -  checkout process
 -  Simple UI suitable for testing usability
--  
+  
  Managed a full project lifecycle using Jira and Zephyr Scale on the demo e-commerce Web https://www.saucedemo.com/.
 - I set up the Scrum board, defined Epics & User Stories, wrote and executed Test Cases, tracked defects, and participated in release validation.
 - This hands-on experience showed me how requirements → user stories → tests → defects → delivery all connect seamlessly.
 
 - Screenshot
-- <img width="1280" height="720" alt="Timeline" src="https://github.com/user-attachments/assets/1ee3a0d8-2af5-4fbc-adde-d9f90c86d2fc" />
+- <img width="400" height="400" alt="Timeline" src="https://github.com/user-attachments/assets/1ee3a0d8-2af5-4fbc-adde-d9f90c86d2fc" />
 <img width="1366" height="768" alt="Boards" src="https://github.com/user-attachments/assets/a605808e-2220-404c-868b-8c815873bf87" />
 <img width="1366" height="768" alt="Boards (2)" src="https://github.com/user-attachments/assets/c8a2fa73-5b4b-4976-9e94-58de26a08a36" />
 <img width="1366" height="768" alt="Workflow" src="https://github.com/user-attachments/assets/53d60b7f-4039-4c54-b6b8-15e5c7d2f6d4" />
