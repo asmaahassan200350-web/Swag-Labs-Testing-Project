@@ -13,7 +13,7 @@ Key Features
 - This hands-on experience showed me how requirements → user stories → tests → defects → delivery all connect seamlessly.
 
 - Screenshot
-- <img width="500" height="500" alt="Timeline" src="https://github.com/user-attachments/assets/1ee3a0d8-2af5-4fbc-adde-d9f90c86d2fc" />
+ <img width="500" height="500" alt="Timeline" src="https://github.com/user-attachments/assets/1ee3a0d8-2af5-4fbc-adde-d9f90c86d2fc" />
 <img width="500" height="500" alt="Boards" src="https://github.com/user-attachments/assets/a605808e-2220-404c-868b-8c815873bf87" />
 <img width="500" height="500" alt="Boards (2)" src="https://github.com/user-attachments/assets/c8a2fa73-5b4b-4976-9e94-58de26a08a36" />
 <img width="500" height="500" alt="Workflow" src="https://github.com/user-attachments/assets/53d60b7f-4039-4c54-b6b8-15e5c7d2f6d4" />
